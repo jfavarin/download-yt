@@ -20,5 +20,5 @@ git clone https://github.com/jfavarin/download-yt.git
 uv sync
 ```
 
->[!Tip] Se não tiver UV
+> Se não tiver UV
 > `curl -LsSf https://astral.sh/uv/install.sh | sh`
