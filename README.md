@@ -23,4 +23,4 @@ uv sync
 
 > Se não tiver UV
 > `curl -LsSf https://astral.sh/uv/install.sh | sh`
-> `source $HOME/.local/bin/env
+> `source $HOME/.local/bin/env`
