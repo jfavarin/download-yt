@@ -2,6 +2,12 @@
 
 ### PASSO A PASSO
 
+#### Instalar ffmpeg
+
+```
+winget install Gyan.FFmpeg
+```
+
 #### Baixar o projeto
 
 ```
